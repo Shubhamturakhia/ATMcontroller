@@ -1,5 +1,10 @@
 # ATMcontroller
 
+## Steps for running the code
+Git cloning can be done using:
+1. git clone git@github.com:Shubhamturakhia/ATMcontroller.git
+2. Run the Atmcontroller.py
+
 This is a basic ATM controller with functions of 
 1. Input the Account pin 
 2. View Balance
