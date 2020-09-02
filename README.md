@@ -29,4 +29,4 @@ c. Transaction Id is created for each exit which is done by the user (this can b
 
 d. It also checks for number of times the pin is reentered and also locks the account authentication if it exceeds a threshold (set for 3 attempts here can be changed) 
 
-e. Authentication checks for confirming the withdrawal adn deposit amounts.
+e. Authentication checks for confirming the withdrawal and deposit amounts.
